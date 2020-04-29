@@ -1,4 +1,4 @@
-![Barbearia](/imagens/cabelo+barba.jpg) 
+![Barbearia](/imagens/logo.png) 
 
 # Barbearia Alura
 
