@@ -1,4 +1,4 @@
-![GitHub Logo](/imagens/cabelo+barba.jpg) 
+![Barbearia](/imagens/cabelo+barba.jpg) 
 
 # Barbearia Alura
 
