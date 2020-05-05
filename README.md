@@ -1,4 +1,4 @@
-![Barbearia](/imagens/logo.png) 
+![Barbearia](Imagens/logo.png) 
 
 # Barbearia Alura
 
